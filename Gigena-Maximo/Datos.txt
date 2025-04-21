@@ -1,3 +1,0 @@
-Nombre = Maximo 
-Apellido = Gigena 
-Nro. de legajo = 45208571

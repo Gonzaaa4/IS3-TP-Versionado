@@ -1,3 +1,0 @@
-Nombre: Facundo
-Apellido: Fraga
-DNI: 45839803

@@ -1,5 +1,0 @@
-Datos:
-
-Nombre: Luciano
-Apellido: Bauer
-Nro de Legajo: LS00737
